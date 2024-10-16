@@ -1,4 +1,4 @@
-# Fibonacci Time Complexity App
+# Fibonacci Time Complexity App(unfinished yet)
 
 This project consists of a simple desktop application that calculates Fibonacci numbers using a C program and plots the execution time (time complexity) using Python. The application allows users to specify the Fibonacci sequence's stopping point and generates a CSV file with the Fibonacci values and their corresponding execution times, which are then plotted as a graph.
 
